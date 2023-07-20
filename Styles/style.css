@@ -1,0 +1,81 @@
+
+/* Header style*/
+.gamer-1{
+  justify-content: space-between;
+    border: 1px;
+    
+}
+.ab{
+    color: #FF42A5;
+}
+.nav-2{
+    display: flex;
+    justify-content: space-between;
+    background: aquamarine;
+   
+}
+
+.nav{
+    display: flex;
+    font-size: 20px;
+    gap: 40px;
+    
+}
+.div-1{
+    display: flex;
+    gap: 10px;
+}
+.img{
+    width: 80px;
+    height: 30px;
+    margin: auto;
+    
+}
+.main-1{
+
+}
+.an{
+    display: flex;
+    width: 40px;
+    height: 30px;
+}
+.G-1{
+   
+}
+.gm-1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 200px;
+}
+.f-1{
+    margin: 100px;
+}
+.AB-2{
+    font-size: 20px;
+    font-weight: 300px;
+    text-align: center;
+}
+.AB{
+    color: #8758F1
+   
+}
+.img-a{
+    display: flex;
+}
+.com-img{
+display: flex;
+text-align: justify;
+}
+.card-add{
+    text-align: center;
+    margin-top: 50px;
+}
+.footer-1{
+    border: 1px black;
+
+}
+.FO-3{
+    color: #FF42A5; 
+    
+}
